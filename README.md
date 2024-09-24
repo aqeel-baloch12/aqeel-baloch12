@@ -1,4 +1,5 @@
 👋 Hi, I’m @aqeel-baloch12
+
 👀 I’m interested in web development, especially front-end design.
 🌱 I’m currently learning HTML, CSS, JavaScript, React.js, PHP, WordPress, and Data Structures and Algorithms (DSA).
 💞️ I’m looking to collaborate on open-source projects related to UI/UX or web apps.
